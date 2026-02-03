@@ -436,11 +436,11 @@ void loop() {
 ## 📸 Project Images
 
 ### System in Normal State
-![Normal Temperature State](images/Screenshot_2026-02-03_155537.png)
+![Normal Temperature State](images/Temp is Normal.png)
 *LCD displays temperature reading with status message*
 
 ### System in High Temperature State  
-![High Temperature State](images/Screenshot_2026-02-03_155617.png)
+![High Temperature State](images/Temp is High.png)
 *Red LED indicator and servo valve adjustment*
 
 ## 🔮 Future Enhancements
@@ -486,11 +486,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Fundamentals of Electronics Course Project**
-
-- 📧 Contact: [Your Email]
-- 🔗 GitHub: [Your GitHub Profile]
-- 💼 LinkedIn: [Your LinkedIn]
+**AmirHossein Osooli**
+- Project: Fundamentals of Electronics Course
 
 ## 🙏 Acknowledgments
 
