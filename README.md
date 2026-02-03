@@ -487,7 +487,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **AmirHossein Osooli**
-- Project: Fundamentals of Electronics Course Project
+- Project: Fundamentals of Electronics Course
 
 ## 🙏 Acknowledgments
 
