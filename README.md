@@ -486,11 +486,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Fundamentals of Electronics Course Project**
-
-- 📧 Contact: [Your Email]
-- 🔗 GitHub: [Your GitHub Profile]
-- 💼 LinkedIn: [Your LinkedIn]
+**AmirHossein Osooli**
+- Project: Fundamentals of Electronics Course Project
 
 ## 🙏 Acknowledgments
 
