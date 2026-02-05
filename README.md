@@ -164,7 +164,7 @@ Both libraries are included with the Arduino IDE, so no additional installation 
 
 2. **Clone or download this repository**
    ```bash
-   git clone https://github.com/yourusername/arduino-temperature-valve-control.git
+   git clone https://github.com/AmirHosseinOsooli/Fundamentals-of-Electeronics-ARDUINO-Spring-2022.git
    cd arduino-temperature-valve-control
    ```
 
@@ -510,7 +510,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Learning Resources
 - [Arduino Project Hub](https://create.arduino.cc/projecthub)
-- [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [Adafruit Learning System](https://learn.adafruit.com/)
 
 ---
